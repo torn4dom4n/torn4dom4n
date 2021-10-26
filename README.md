@@ -12,9 +12,9 @@ One day you'll leave this world behind, so live a life you will remember.
 
 Say [Hi](mailto:torn4dom4n@gmail.com) or find me on other platforms: 
 
-<a href="https://www.facebook.com/LongNhatNguyenOfficial"><img src=assets/facebook.png width="40" height="40"></a>
-<a href="https://www.twitter.com/torn4dom4n"><img src=assets/twitter.png width="40" height="40"></a>
-<a href="https://github.com/torn4dom4n"><img src=assets/github.png width="40" height="40"></a>
-<a href="https://www.instagram.com/torn4dom4n"><img src=assets/instagram.png width="40" height="40"></a>
-<a href="https://www.youtube.com/channel/UCdODlNO_H2kN2JYsUuAuybQ"><img src=assets/youtube.png width="40" height="40"></a>
-<a href="https://soundcloud.com/torn4dom4n"><img src=assets/soundcloud.png width="40" height="40"></a>
+<a href="https://www.facebook.com/LongNhatNguyenOfficial"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+<a href="https://www.twitter.com/torn4dom4n"><img src="https://img.icons8.com/color/50/000000/twitter.png"/></a>
+<a href="https://github.com/torn4dom4n"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
+<a href="https://www.instagram.com/torn4dom4n"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://www.youtube.com/channel/UCdODlNO_H2kN2JYsUuAuybQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="https://soundcloud.com/torn4dom4n"><img src="https://img.icons8.com/color/48/000000/soundcloud.png"/></a>
