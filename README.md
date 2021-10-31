@@ -12,6 +12,7 @@ One day you'll leave this world behind, so live a life you will remember.
 
 Say [Hi](mailto:torn4dom4n@gmail.com) or find me on other platforms: 
 
+<a href="https://www.linkedin.com/in/torn4dom4n"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/LongNhatNguyenOfficial"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
 <a href="https://www.twitter.com/torn4dom4n"><img src="https://img.icons8.com/color/50/000000/twitter.png"/></a>
 <a href="https://github.com/torn4dom4n"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
