@@ -2,6 +2,10 @@
 
 I'm a man of focus, commitment, sheer will,... something you know very litte about.
 
+## 🎵 I love music
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21wo6cmtietc4gvsg4i7zlloy&unique=1)
+
 ## ✍️ About
 
 > The language can not fully capture the depth and complexity of my thoughts. So I'm incorporating Music into my speech to better express myself.
