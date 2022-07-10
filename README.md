@@ -1,6 +1,6 @@
 # Hi 👋, I'm Long Nhat Nguyen
 
-> If we'll ever be remembered, I know it'll be for the way that we love
+If we'll ever be remembered, I know it'll be for the way that we love
 
 ## 🎵 I love music
 
@@ -8,9 +8,7 @@
 
 ## ✍️ About
 
-> The language can not fully capture the depth and complexity of my thoughts. So I'm incorporating Music into my speech to better express myself.
-
-One day you'll leave this world behind, so live a life you will remember.
+> One day you'll leave this world behind, so live a life you will remember.
 
 ## 🤙 Get in touch
 
