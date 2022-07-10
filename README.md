@@ -1,6 +1,6 @@
 # Hi 👋, I'm Long Nhat Nguyen
 
-I'm a man of focus, commitment, sheer will,... something you know very litte about.
+> If we'll ever be remembered, I know it'll be for the way that we love
 
 ## 🎵 I love music
 
