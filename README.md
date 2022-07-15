@@ -8,7 +8,7 @@ If we'll ever be remembered, I know it'll be for the way that we love
 
 ## ✍️ About
 
-> One day you'll leave this world behind, so live a life you will remember.
+One day you'll leave this world behind, so live a life you will remember.
 
 ## 🤙 Get in touch
 
