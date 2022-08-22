@@ -1,16 +1,16 @@
 # Hi 👋, I'm Long Nhat Nguyen
 
-If we'll ever be remembered, I know it'll be for the way that we love
+> If we'll ever be remembered, I know it'll be for the way that we love
 
 ## 🎵 I love music
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21wo6cmtietc4gvsg4i7zlloy&unique=1)
 
-## ✍️ About
+## 😄 About me
 
-One day you'll leave this world behind, so live a life you will remember.
+I'm a man of focus, commitment, sheer will,... something you know very litte about.
 
-## 🤙 Get in touch
+## 🌐 Get in touch
 
 Say [Hi](mailto:torn4dom4n@gmail.com) or find me on other platforms: 
 
