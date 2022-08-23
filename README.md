@@ -1,14 +1,14 @@
-# Hi 👋, I'm Long Nhat Nguyen
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B;I'm+Long+Nhat+Nguyen)](https://git.io/typing-svg)
+
+## 😄 About me
 
 > If we'll ever be remembered, I know it'll be for the way that we love
+
+I'm a man of focus, commitment, sheer will,... something you know very litte about.
 
 ## 🎵 I love music
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21wo6cmtietc4gvsg4i7zlloy&unique=1)
-
-## 😄 About me
-
-I'm a man of focus, commitment, sheer will,... something you know very litte about.
 
 ## 🌐 Get in touch
 
