@@ -14,10 +14,11 @@ I'm a man of focus, commitment, sheer will,... something you know very litte abo
 
 Say [Hi](mailto:torn4dom4n@gmail.com) or find me on other platforms: 
 
-<a href="https://github.com/torn4dom4n"><img src="assets/github-octocat.svg" width=40 /></a>
-<a href="https://soundcloud.com/torn4dom4n"><img src="assets/soundcloud.svg" width=40/></a>
-<a href="https://www.facebook.com/LongNhatNguyenOfficial"><img src="assets/facebook.svg" width=40 /></a>
-<a href="https://www.instagram.com/torn4dom4n"><img src="assets/instagram.svg" width=40 /></a>
-<a href="https://www.linkedin.com/in/torn4dom4n"><img src="assets/linkedin.svg" width=40 /></a>
-<a href="https://www.twitter.com/torn4dom4n"><img src="assets/twitter.svg" width=40 /></a>
-<a href="https://www.youtube.com/channel/UCdODlNO_H2kN2JYsUuAuybQ"><img src="assets/youtube.svg" width=40 /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-logo.svg?logo=GitHub&logoColor=white&style=for-the-badge&color=141617)](https://github.com/torn4dom4n)
+[![Facebook](https://img.shields.io/badge/Facebook-logo.svg?logo=Facebook&logoColor=white&style=for-the-badge&color=141617)](https://facebook.com/LongNhatNguyenOfficial)
+[![Instagram](https://img.shields.io/badge/Instagram-logo.svg?logo=Instagram&logoColor=white&style=for-the-badge&color=141617)](https://instagram.com/torn4dom4n)
+[![Twitter](https://img.shields.io/badge/Twitter-logo.svg?logo=Twitter&logoColor=white&style=for-the-badge&color=141617)](https://twitter.com/torn4dom4n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-logo.svg?logo=linkedin&logoColor=white&style=for-the-badge&color=141617)](https://linkedin.com/in/torn4dom4n)
+[![Reddit](https://img.shields.io/badge/Reddit-logo.svg?logo=Reddit&logoColor=white&style=for-the-badge&color=141617)](https://reddit.com/user/torn4dom4n)
+[![YouTube](https://img.shields.io/badge/YouTube-logo.svg?logo=YouTube&logoColor=white&style=for-the-badge&color=141617)](https://www.youtube.com/channel/UCdODlNO_H2kN2JYsUuAuybQ)
+[![Pinterest](https://img.shields.io/badge/Pinterest-logo.svg?logo=Pinterest&logoColor=white&style=for-the-badge&color=141617)](https://pinterest.com/torn4dom4n)
