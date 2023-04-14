@@ -1,6 +1,6 @@
 <p>
   <samp>
-    Hello humans, my name is Long Nhat Nguyen.
+    Hello humans, my name is Long Nhat Nguyen
   </samp>
 </p>
 
