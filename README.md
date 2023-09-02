@@ -4,4 +4,4 @@
   </samp>
 </p>
 
-<a href="https://torn4dom4n.github.io"><img src="badge.svg" alt="Long Nhat Nguyen's website" /></a>
+<a href="https://imnhatnguyen.vercel.app"><img src="badge.svg" alt="Long Nhat Nguyen's website" /></a>
